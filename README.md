@@ -8,7 +8,7 @@ pip install -e .
 
 ## Run with the Simulation Engine
 
-In the `gpt2flower` directory, use `flwr run` to run a local simulation:
+In the `SLMFL` directory, use `flwr run` to run a local simulation:
 
 ```bash
 flwr run .
